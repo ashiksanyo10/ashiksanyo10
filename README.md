@@ -8,7 +8,7 @@
 **Software Expertise  :  Adobe Creative suit**
 
 
-- 🔭 I’m currently working front-end designing. 
+- 🔭 I’m currently working on front-end designing. 
 - 🌱 I’m currently learning Automation using python,ML 
 - 🤔 I’m looking for help with Algorithm and stuffs 
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
