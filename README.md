@@ -4,8 +4,8 @@
 
 A tech enthusiast with passion to solve problems and to make things.
 
-(**Technical Expertise : C / HTML / CSS / JS / PYTHON
-Software Expertise - Adobe Creative suit**)
+(**Technical Expertise : C / HTML / CSS / JS / PYTHON**)
+(**Software Expertise - Adobe Creative suit**)
 
 
 - 🔭 I’m currently working on this page. 
