@@ -1,4 +1,4 @@
- Hi there 👋, my name is Ashik Sanyo
+ Hi there 👋, (**my name is Ashik Sanyo**)
 ![Ashik sanyo(https://user-images.githubusercontent.com/66254994/100312196-a9e89c00-2fd7-11eb-95c8-e475aa4cfcc7.png)
 
 ***A tech enthusiast with passion to solve problems and to make things.
