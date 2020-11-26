@@ -21,9 +21,9 @@
 👔 [linkedin][linkedin]
 
 [website]: https://ashiksanyo.netlify.app/ 
-[twitter]: https://twitter.com/ashsanyo
-[youtube]: https://youtube.com/ashiksanyo
-[instagram]: https://instagram.com/bradgarropy
+[twitter]: https://twitter.com/AshSanyo
+[youtube]: https://www.youtube.com/channel/UCYIyG5lE2VW-4NzXVLPAbRA
+[instagram]: https://www.instagram.com/sanyo.jpeg/
 [linkedin]: https://www.linkedin.com/in/ashik-sanyo-3557ab1aa/
 
 ![Profile views](https://gpvc.arturio.dev/ashiksanyo10)  
