@@ -5,7 +5,7 @@
 **A tech enthusiast with passion to solve problems and to make things.**
 
 **Technical Expertise : C / HTML / CSS / JS / PYTHON**                                                                                                                             
-**Software Expertise - Adobe Creative suit**
+**Software Expertise  :  Adobe Creative suit**
 
 
 - 🔭 I’m currently working front-end designing. 
