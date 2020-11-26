@@ -14,16 +14,16 @@ A tech enthusiast with passion to solve problems and to make things.
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡ Fun fact: Are cyborgs are same as in Teen Titans?! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiksanyo10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sanyo.jpeg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ashsanyo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@ashsanyo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashiksanyo.netlify.app/)  
-
-![Profile views](https://gpvc.arturio.dev/ashiksanyo10)  
-
-
-🏡 [website][website] **|** 
+🏡 [website][https://ashiksanyo.netlify.app/] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
+
+
+![Profile views](https://gpvc.arturio.dev/ashiksanyo10)  
+
+
