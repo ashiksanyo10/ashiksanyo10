@@ -24,7 +24,7 @@
 [twitter]: https://twitter.com/ashsanyo
 [youtube]: https://youtube.com/ashiksanyo
 [instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://www.linkedin.com/in/ashik-sanyo
+[linkedin]: https://www.linkedin.com/in/ashik-sanyo-3557ab1aa/
 
 ![Profile views](https://gpvc.arturio.dev/ashiksanyo10)  
 
