@@ -9,8 +9,6 @@
 
 
 - 🔭 I’m currently working on front-end designing. 
-- 🌱 I’m currently learning Automation using python,ML 
-- 🤔 I’m looking for help with Algorithm and stuffs 
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡ Fun fact: Are cyborgs are same as in Teen Titans?! 
 
