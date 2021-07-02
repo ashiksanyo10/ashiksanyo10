@@ -2,7 +2,7 @@
 
 ![Ashik sanyo](https://user-images.githubusercontent.com/66254994/100312196-a9e89c00-2fd7-11eb-95c8-e475aa4cfcc7.png)
 
-**A tech enthusiast with passion to solve problems and to make things.**
+**A tech enthusiast and a Gamer.**
 
 **Technical Expertise : C / HTML / CSS / JS / PYTHON**                                                                                                                             
 **Software Expertise  :  Adobe Creative suit**
