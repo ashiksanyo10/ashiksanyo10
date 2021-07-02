@@ -4,7 +4,7 @@
 
 **A tech enthusiast and a Gamer.**
 
-**Technical Expertise : C / HTML / CSS / JS / PYTHON**                                                                                                                             
+**Technical Expertise : C / HTML / CSS / JAVA / PYTHON**                                                                                                                             
 **Software Expertise  :  Adobe Creative suit**
 
 
