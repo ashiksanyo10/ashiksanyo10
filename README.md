@@ -8,7 +8,7 @@
 **Software Expertise  :  Adobe Creative suit**
 
 
-- 🔭 I’m currently working on front-end designing. 
+- 🔭 I’m currently studying on Data-Science 
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡ Fun fact: Are cyborgs are same as in Teen Titans?! 
 
