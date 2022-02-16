@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying on Data-Science 
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
-- ⚡ Fun fact: Are cyborgs are same as in Teen Titans?! 
+- ⚡ Are cyborgs are same as in Teen Titans?! 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
