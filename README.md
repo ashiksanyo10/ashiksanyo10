@@ -25,5 +25,5 @@
 [linkedin]: https://www.linkedin.com/in/ashik-sanyo-3557ab1aa/
 
 ![Profile views](https://gpvc.arturio.dev/ashiksanyo10)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
