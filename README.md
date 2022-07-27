@@ -9,6 +9,7 @@
 
 
 - 🔭 I’m currently studying on Data-Science 
+- 🐱‍👤 Kaggle : https://www.kaggle.com/ashiksanyo
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡ Are cyborgs are same as in Teen Titans?! 
 
