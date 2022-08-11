@@ -4,14 +4,13 @@
 
 **A tech enthusiast and a Gamer.**
 
-**Technical Expertise : C / HTML / CSS / JAVA / PYTHON**                                                                                                                             
-**Software Expertise  :  Adobe Creative suit**
-
-
 - 🔭 I’m currently studying on Data-Science 
 - 🐱‍👤 Kaggle : https://www.kaggle.com/ashiksanyo
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡ Are cyborgs are same as in Teen Titans?! 
+
+Skills
+Javascript Python HTML5 CSS3 NodeJS Express Photoshop Illustrator XD Figma
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
