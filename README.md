@@ -9,7 +9,7 @@ Also a front-end developer turning coffee into code and a part-time gamer!!.**
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡  I'm currently working on making a world better place (A constant lie) and also learning how to code better and brew the perfect cup of coffee
 
-### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
