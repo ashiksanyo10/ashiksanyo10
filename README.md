@@ -1,7 +1,7 @@
 ### Hey people👋, My name is Ashik Sanyo 
 
-**A tech nerd, an avid Data Science enthusiast developing skills to produce high standard insights.
-Also a front-end developer and part-time gamer!!.**
+**A tech nerd, an avid Data Science enthusiast 
+Also developer and part-time gamer!!.**
 
 - 🐱‍👤 Kaggle : https://www.kaggle.com/ashiksanyo
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
