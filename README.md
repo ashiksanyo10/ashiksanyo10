@@ -7,9 +7,6 @@ Also a front-end developer and part-time gamer!!.**
 - 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com 
 - ⚡  I'm currently working on making a world better place (A constant lie) and also learning how to code better and brew the perfect cup of coffee
 
-![gif](https://user-images.githubusercontent.com/66254994/227459895-cf460eb3-4a91-44b6-82f8-64cacbc3d376.gif)
-
-
 
 
 <p align="left">
