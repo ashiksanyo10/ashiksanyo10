@@ -9,9 +9,8 @@
 
 
 - 🐱‍👤 Kaggle : https://www.kaggle.com/ashiksanyo
-- 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com
 - 🎯 LinkedIn : https://www.linkedin.com/in/ashiksanyo/
-
+- 📫 How to reach me: Drop a mail at ashiksanyo01@gmail.com
 
 
 
