@@ -19,7 +19,7 @@
 
 - 🧠 Experience working in server management, Malware compliance
 
-[![image](https://github.com/ashiksanyo10/ashiksanyo10/assets/66254994/36ec02b1-d783-41ea-ae50-0e9304811c87)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh5Z3Byc2d0bmVyaDRnOWhvbGF4dHVrYzRnMGFhdHdtdnlqenR5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh5Z3Byc2d0bmVyaDRnOWhvbGF4dHVrYzRnMGFhdHdtdnlqenR5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
 
 
 ✔️ I'm not a robot , And this is my Twitter handle @AshikSanyo!
