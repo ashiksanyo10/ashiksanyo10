@@ -16,7 +16,3 @@
 
 - 🧠 Experience working in server management, Malware compliance
 
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
-
-
-✔️ I'm not a robot , And this is my Twitter handle @AshikSanyo!
