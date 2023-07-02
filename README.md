@@ -19,8 +19,7 @@
 
 - 🧠 Experience working in server management, Malware compliance
 
-<p align="centre"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=pik1989&show_icons=true" alt="pik1989" /> </p>
+![image](https://github.com/ashiksanyo10/ashiksanyo10/assets/66254994/36ec02b1-d783-41ea-ae50-0e9304811c87)
 
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP"></a></p>
 
 ✔️ I'm not a robot , And this is my Twitter handle @AshikSanyo!
