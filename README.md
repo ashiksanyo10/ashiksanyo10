@@ -13,7 +13,7 @@
 
 - 🎯 2023 Goals: Strengthen my Python and Machine Learning fundamentals.  
 
-- 👨‍💻 Portfolio [https://ashiksanyo.netlify.app/]
+- 👨‍💻 Portfolio: https://ashiksanyo.netlify.app/
 
 - 💬 Reach me at **ashiksanyo01@gmail.com**
 
