@@ -15,5 +15,4 @@
 
 - 💬 Reach me at **ashiksanyo01@gmail.com**
 
-- 🧠 Experience working in server management, Malware compliance
 
