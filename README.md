@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Ashik</h1>
 
+
+https://github.com/ashiksanyo10/ashiksanyo10/blob/main/giphy.gif
+
 - 🔭  I’m currently learning Machine Learning,Tensorflow, AWS, Google Cloud, Tableau and GitHub ofcourse. 
 
 - 👯 I’m looking to collaborate with others working on Data Science.    
