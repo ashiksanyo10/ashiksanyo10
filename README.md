@@ -1,15 +1,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Ashik</h1>
 
 
-🚀 Welcome to my professional space! I am dedicated to advancing my skills in Machine Learning, TensorFlow, AWS, Google Cloud, Tableau, and effective collaboration on GitHub.
+🚀 Welcome to my Data Science playground! I am passionate about transforming raw data into meaningful insights and driving data-driven decision-making. 
+   Here's a glimpse into my world of data exploration, machine learning, and statistical analysis.
 
-🤝 Open to Collaborate: I am actively seeking opportunities to collaborate with fellow professionals in the field of Data Science. Let's work together to create meaningful insights and drive innovation.
+🤝 Open to Collaborate: I am actively seeking opportunities to collaborate with fellow professionals in the field of Data Science. 
+    Let's work together to create meaningful insights and drive innovation.
 
-🎓 2023 Learning Goals: Committed to fortifying my foundations in Python and Machine Learning. Continuous improvement is the key to staying at the forefront of technological advancements.
+🚀 Skills & Technologies
 
-👨‍💻 Explore my Portfolio: Dive into my projects and achievements at ashiksanyo.netlify.app. This portfolio showcases my journey and highlights the projects that reflect my commitment to excellence.
+Programming Languages: Python (NumPy, Pandas, scikit-learn), R.
+Machine Learning: Regression, Classification, Clustering, Neural Networks.
+Data Visualization: Tableau, Matplotlib, Seaborn.
+Cloud Platforms: AWS, Google Cloud.
+Version Control: Git, GitHub.
 
-📧 Contact Information: Feel free to reach out to me at ashiksanyo01@gmail.com. I'm open to discussions, networking, and exploring exciting opportunities in the realm of data-driven technologies.
+🌱 Learning Goals - 2024
+Explore MLOPS, LLMs & Advanced SQL
+Master cloud-based analytics and data engineering.
 
-Let's embark on a journey of knowledge and innovation together! 🌐✨
+🤝 Let's Connect!
+I'm always open to collaborations, discussions, and new challenges. Feel free to reach out:
 
+Email: ashiksanyo01@gmail.com
+LinkedIn: linkedin.com/in/ashiksanyo
+Portfolio:  https://ashiksanyo.netlify.app/
