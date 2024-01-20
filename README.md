@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Sanyo</h1>
 
-### 💡 About me: Passionate tech Enthusiast and an avid Data Science who is committed to advancing knowledge. My expertise includes data analysis, feature engineering and machine learning. 
+### 💡 About me: 
+Passionate tech Enthusiast and an avid Data Science who is committed to advancing knowledge. My expertise includes data analysis, feature engineering and machine learning. 
 
-### 🤝 Open to Collaborate: I am actively seeking opportunities to collaborate with fellow professionals in the field of Data Science. Let's work together to create meaningful insights and drive innovation.
+### 🤝 Open to Collaborate: 
+I am actively seeking opportunities to collaborate with fellow professionals in the field of Data Science. Let's work together to create meaningful insights and drive innovation.
 
 ### 🛠 Tech Stack:
 
