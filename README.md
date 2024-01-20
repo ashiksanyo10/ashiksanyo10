@@ -4,7 +4,7 @@
 
 🤝 Open to Collaborate: I am actively seeking opportunities to collaborate with fellow professionals in the field of Data Science. Let's work together to create meaningful insights and drive innovation.
 
-### 🚀 Skills & Technologies
+### 🚀 Tech Stack:
 
 - **Programming Languages:** Python (NumPy, Pandas, scikit-learn), R.
 - **Machine Learning:** Regression, Classification, Clustering, Neural Networks.
@@ -16,6 +16,7 @@
 
 - Explore MLOPS, LLMs & Advanced SQL.
 - Master cloud-based analytics and data engineering.
+- API Authentication Systems
 
 🤝 Let's Connect!
 
