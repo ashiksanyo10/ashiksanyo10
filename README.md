@@ -8,20 +8,13 @@ I am actively seeking opportunities to collaborate with fellow professionals in 
 
 ### 🛠 Tech Stack:
 
-- **Programming Languages:** Python (NumPy, Pandas, scikit-learn), R.
+- **Programming Languages:** Python, R, Js
 - **Machine Learning:** Regression, Classification, Clustering, Neural Networks.
+- **Database:** MySQL, FireBase, SupaBase, MariaDB
 - **Data Visualization:** Tableau, Matplotlib, Seaborn.
 - **Cloud Platforms:** AWS, Google Cloud.
 - **Version Control:** Git, GitHub.
 
-### 🌱 Learning Goals - 2024
-
-- Explore MLOPS, LLMs & Advanced SQL.
-- Master cloud-based analytics and data engineering.
-- API Authentication Systems
-- Contribute to Open Source Projects
-- Solve real-world problems through collaborative coding.
-- Enhance coding skills and gain exposure to diverse projects
 
 ### 🤝 Let's Connect!
 
