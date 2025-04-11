@@ -1,9 +1,8 @@
-<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Sanyo </a></h1><img src="https://komarev.com/ghpvc/?username=multiverseweb" align="right"><img src="https://img.shields.io/github/stars/multiverseweb?label=Star%20Gazers&style=social" align="right">
-  
+<div style="display:flex;"><h1>Hey, I'm <a href="https://tejasgupta.netlify.app/">Sanyo </a></h1>
 <!--<img src="https://visitcount.itsvg.in/api?id=multiverseweb&icon=2&color=0" align="right">--></div>
 <!--<a href="https://leetcode.com/u/tejas-gupta/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftejas-gupta&logo=leetcode&logoColor=yellow"/></a>-->
 <br>
-🐱‍👤 Data Analyst @  Amazon
+🐱‍👤 Data Analyst @  Amazon .<br>
 🎓 Pursued my `Master's Degree` in `Data Science`.<br>
 🌐 Software developer and an open-source enthusiast.<br>
 👨‍💻 Talk to me about Data & Python Application Development.<br>
@@ -41,34 +40,13 @@
 | **📒⠀Database** |
 |![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)|
 | **💡⠀Hardware** |
-|![ThingSpeak](https://img.shields.io/badge/ThingSpeak-1f41ad?style=flat&logo=ThingSpeak&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=Arduino&logoColor=white) ![LTSpice](https://img.shields.io/badge/LTspice-900028.svg?style=flat&logo=LTspice&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0.svg?style=flat&logo=KiCad&logoColor=white) ![](https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=MQTT&logoColor=white) ![](https://img.shields.io/badge/NodeRED-8F0000.svg?style=flat&logo=Node-RED&logoColor=white)|
+|![ThingSpeak](https://img.shields.io/badge/ThingSpeak-1f41ad?style=flat&logo=ThingSpeak&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=Arduino&logoColor=white) ![LTSpice](https://img.shields.io/badge/LTspice-900028.svg?style=flat&logo=LTspice&logoColor=white) 
 | **🖥⠀OS** |
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Microsoft&logoColor=white) |
 
 ---
 
 </div>
-
-<!-- GitHub Analytics -->
-## :octocat: GitHub Analytics
-
-  <div align="center">
-    
-| <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=multiverseweb&theme=highcontrast&hide_border=true" alt="GitHub Stats" />  | <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Top Languages" /> |<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=multiverseweb&theme=highcontrast&hide_border=true"> |
-|:---:|:---:|:---:|
-    
-| <img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverseweb&theme=highcontrast&hide_border=true" alt="Graph of Commits" /> | <img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=multiverseweb&bg_color=000000&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true"> |
-|:---:|:---:|
-
-</div>
-<div align="center">
-Show some ❤️ by starring some of the repositories you like ⭐ or by buying me a coffee!
-</div>
-<br/>
-<div align="center">
-<a href="https://www.buymeacoffee.com/tejasgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"></a>
-</div>
-<div align="center" style= "display: block;">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%" alt="Footer"/>
