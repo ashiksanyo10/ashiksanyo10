@@ -8,14 +8,11 @@ Building intelligent systems at scale through analytics, applied AI, research, a
 With a foundation in analytical research and software engineering, I design and deploy end-to-end AI-driven solutions from ETL to agentic pipelines focused on reliability, performance, and operational integration.
 
 
----
-
 #### Tech Stack
 
 ```
 Python • LangGraph • Next.js • React Native • Node.js • Tailwind CSS • Web3 • AWS
 ```
----
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=ashiksanyo10&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
