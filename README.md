@@ -13,6 +13,3 @@ With a foundation in analytical research and software engineering, I design and 
 Python • LangGraph • Next.js • React Native • Node.js • Tailwind CSS • Web3 • AWS
 ```
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ashiksanyo10&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
