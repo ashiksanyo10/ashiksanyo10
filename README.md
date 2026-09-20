@@ -1,4 +1,4 @@
-![britney.gif](https://raw.githubusercontent.com/Koushith/Koushith/master/britney.gif)
+![britney.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJrcjQ2NXAyYXpkaWRodnQ2eGJwa3A4cDg3MHlzdjF1eHA4M3JkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ejVTnQrMGYjvbjJDMB/giphy.gif)
 
 ### Hey, I'm Sanyo 👋
 
