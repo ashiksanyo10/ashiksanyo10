@@ -1,8 +1,7 @@
-![britney.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJrcjQ2NXAyYXpkaWRodnQ2eGJwa3A4cDg3MHlzdjF1eHA4M3JkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ejVTnQrMGYjvbjJDMB/giphy.gif)
 
 ### Hey, I'm Sanyo 👋
 
- AI Engineer at **Amazon** - obsessed with building soultion, crafting clean, user-centric experiences.
+Dev at **Amazon** - obsessed with building soultion, crafting clean, user-centric experiences.
  
 Building intelligent systems at scale through analytics, applied AI, research, and system design. I specialize in developing scalable data architectures, production-ready ML models for business advantage.
 With a foundation in analytical research and software engineering, I design and deploy end-to-end AI-driven solutions from ETL to agentic pipelines focused on reliability, performance, and operational integration.
